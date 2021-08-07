@@ -7,9 +7,9 @@
 
 # ▎Personal Info
 - Jung Hyun Min
-- Seoul National University (SNU)
-- Computer Science and Engineering (CSE) 16
-- hjcdg197@gmail.com
+- 대학교
+- 전공
+- 이메일
 
 
 <!--
