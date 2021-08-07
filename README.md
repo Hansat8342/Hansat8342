@@ -10,7 +10,7 @@
 - Hongik University
 - Mechanical Engineering
 - Junghyunmin9729@gmail.com
-\\와 
+
 # ▎Primary Tech Stacks
 <!-- - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
