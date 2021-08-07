@@ -1,9 +1,7 @@
 ### Welcome to Jung Hyun Min's Github !! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansat8342&show_icons=true&theme=radical&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansat8342&layout=compact)](https://github.com/hansat8342/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=Hansat8342&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=Hansat8342&layout=compact&theme=dracula)
 <!--
 **Hansat8342/Hansat8342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
